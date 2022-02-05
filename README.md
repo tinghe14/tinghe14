@@ -8,7 +8,7 @@
         <ul>
           <li>🎓 BA, graduated from DUT</li>
           <li>🔭 I’m currently working on clinical data mining</li>
-          <li>🌱 I’m currently learning information retrieval and big data analysis</li>
+          <li>🌱 I’m interested in clinical natural language processing</li>
           <li>🌐 <a href="https://tinghe14.github.io/" target="_blank">https://tinghe14.github.io/</a><br /><i>A personal website is working on.</i></li>
         </ul>
       </td>
