@@ -6,10 +6,10 @@
         <h3>👋 Hi there</h3>
         <p>I'm Helen, a PhD student at Johns Hopkins.</p>
         <ul>
-          <li>🎓 BA, graduated from DUT</li>
-          <li>🔭 I’m currently working on clinical data mining</li>
-          <li>🌱 I’m interested in clinical natural language processing</li>
-          <li>🌐 <a href="https://tinghe14.github.io/" target="_blank">https://tinghe14.github.io/</a><br /><i>A personal website is working on.</i></li>
+          <li>🎓 I’m currently working on clinical natural language processing and plan to apply for MLE position after graduation</li>
+          <li>🔭 This is my technical repository for MLE career path preparation: <a href='https://github.com/tinghe14/MLE-Learner' target='_blank'>repo</a></li>
+          <li>🌱 This is my research repository for NLP foundation work: <a href='https://github.com/tinghe14/NER-RE-Papers' target='_blank'>repo</a></li>
+          <li>🌐 This is my medium posts: <a href="https://medium.com/@hetinghelen" target="_blank">https://medium.com/@hetinghelen</a><br /></li>
         </ul>
       </td>
       <td valign="top">
