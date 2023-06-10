@@ -6,7 +6,7 @@
         <h3>👋 Hi there</h3>
         <p>I'm Helen, a PhD student at Johns Hopkins.</p>
         <ul>
-          <li>🎓 I’m currently working on clinical natural language processing and plan to apply for MLE position after graduation</li>
+          <li>🎓 I’m currently working on clinical natural language processing</li>
           <li>🔭 This is my technical repository for MLE career path preparation: <a href='https://github.com/tinghe14/MLE-Learner' target='_blank'>repo</a></li>
           <li>🌱 This is my research repository for NLP work: <a href='https://github.com/tinghe14/NER-RE-Papers' target='_blank'>repo</a></li>
           <!--<li>🌐 This is my medium posts(not maintain frequently compare to previous two repos): <a href="https://medium.com/@hetinghelen" target="_blank">https://medium.com/@hetinghelen</a><br /></li>-->
